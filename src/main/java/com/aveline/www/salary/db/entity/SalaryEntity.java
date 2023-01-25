@@ -1,4 +1,4 @@
-package com.pratik.www.salary.db.entity;
+package com.aveline.www.salary.db.entity;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import com.fasterxml.jackson.annotation.JsonInclude;

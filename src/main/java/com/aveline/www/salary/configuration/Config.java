@@ -1,4 +1,4 @@
-package com.pratik.www.salary.configuration;
+package com.aveline.www.salary.configuration;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.ApplicationContext;

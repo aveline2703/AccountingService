@@ -1,4 +1,4 @@
-package com.pratik.www.salary;
+package com.aveline.www.salary;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

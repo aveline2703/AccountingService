@@ -1,6 +1,6 @@
-package com.pratik.www.salary.db.repository;
+package com.aveline.www.salary.db.repository;
 
-import com.pratik.www.salary.db.entity.SalaryEntity;
+import com.aveline.www.salary.db.entity.SalaryEntity;
 import org.springframework.data.couchbase.repository.CouchbaseRepository;
 import org.springframework.stereotype.Repository;
 

@@ -1,4 +1,4 @@
-package com.pratik.www.salary.model;
+package com.aveline.www.salary.model;
 
 
 import com.fasterxml.jackson.annotation.JsonFormat;

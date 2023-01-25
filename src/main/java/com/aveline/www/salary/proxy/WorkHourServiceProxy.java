@@ -1,7 +1,7 @@
-package com.pratik.www.salary.proxy;
+package com.aveline.www.salary.proxy;
 
-import com.pratik.www.salary.model.WorkHourRequest;
-import com.pratik.www.salary.model.EmployeeLeave;
+import com.aveline.www.salary.model.WorkHourRequest;
+import com.aveline.www.salary.model.EmployeeLeave;
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
